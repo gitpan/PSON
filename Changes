@@ -1,5 +1,9 @@
 Revision history for Perl extension PSON
 
+0.04 2014-04-02T12:03:09Z
+
+    - Added 'decode_pson' method.
+
 0.03 2014-04-02T12:01:05Z
 
     - Support undefined value
