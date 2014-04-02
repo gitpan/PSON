@@ -29,7 +29,7 @@ no_index:
 provides:
   PSON:
     file: lib/PSON.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   Encode: '0'
   Scalar::Util: '0'
@@ -39,4 +39,4 @@ resources:
   bugtracker: https://github.com/tokuhirom/PSON/issues
   homepage: https://github.com/tokuhirom/PSON
   repository: git://github.com/tokuhirom/PSON.git
-version: '0.01'
+version: '0.02'
