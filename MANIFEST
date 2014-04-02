@@ -13,5 +13,6 @@ t/03_pretty.t
 t/04_decode.t
 t/05_special_chars.t
 t/06_docs.t
+t/07_function.t
 META.yml
 MANIFEST
